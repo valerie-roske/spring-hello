@@ -1,0 +1,12 @@
+*.classpath
+*.project
+*.iml
+.settings/
+.idea/
+.gradle/
+build/
+gradle/
+out/
+web-src/build/
+web-src/node_modules/
+gradlew*
