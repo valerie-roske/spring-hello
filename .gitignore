@@ -10,3 +10,4 @@ out/
 web-src/build/
 web-src/node_modules/
 gradlew*
+bin/

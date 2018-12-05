@@ -6,4 +6,11 @@ pipeline {
             // customImage.push()
         }
     }
+    stages {
+        stage('Run a command') {
+            steps {
+                sh 'printenv'
+            }
+        }
+    }
 }
